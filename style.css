@@ -1,3 +1,11 @@
 * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
     font-family: 'Titillium Web', sans-serif;
+}
+
+header {
+    background-image: url(./Imagens/bg-moblie.png);
+    background-size: cover; /* imagem não vai ficar se repetindo e vai ficar certinha */
 }
