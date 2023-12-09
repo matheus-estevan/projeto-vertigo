@@ -8,4 +8,12 @@
 header {
     background-image: url(./Imagens/bg-moblie.png);
     background-size: cover; /* imagem não vai ficar se repetindo e vai ficar certinha */
+    height: 8.375rem;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+
+
+
